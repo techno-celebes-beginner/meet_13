@@ -47,6 +47,8 @@
             </aside>
             <!-- /.control-sidebar -->
         </div>
+
+        @stack('scripts')
         <!-- ./wrapper -->
 
         <!-- jQuery -->
